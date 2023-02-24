@@ -3,9 +3,9 @@
 Hi, I am Ogeleyinbo Gbemiga from Toronto,Canada. A DevOps Engineer with 5+ years of experience in Designing, supporting, automating and optimizing mission critical application deployments over large infrastructure while helping Organizations instill DevOps for the modern age and improving ability to design, debug and release without forgoing security and performance. Specialized in Cost and resource Optimization using Managed services, Infrastructure Restructuring and serverless technologies. Led different  Migration from Data Centers to Cloud and Intercloud movement of Data. Multi-Cloud architecture and inter Cloud connectivity. 
 
 
-- ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯 ([Proof](https://github.com/gvanrossum/patma/issues/89#issuecomment-649210954))
 
-![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delta456&show_icons=true&include_all_commits=true)
+
+![SGbemiga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gbengene&show_icons=true&include_all_commits=true)
 
 
 ### Programming Languages 🌐
