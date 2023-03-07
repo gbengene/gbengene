@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I am Ogeleyinbo Gbemiga from Toronto,Canada. A DevOps Engineer with 5+ years of experience in Designing, supporting, automating and optimizing mission critical application deployments over large infrastructure while helping Organizations instill DevOps for the modern age and improving ability to design, debug and release without forgoing security and performance. Specialized in Cost and resource Optimization using Managed services, Infrastructure Restructuring and serverless technologies. Led different  Migration from Data Centers to Cloud and Intercloud movement of Data. Multi-Cloud architecture and inter Cloud connectivity. 
+Hi, I am Ogeleyinbo Gbemiga from Toronto,Canada. A DevOps Engineer with  experience in Designing, supporting, automating and optimizing mission critical application deployments over large infrastructure while helping Organizations instill DevOps for the modern age and improving ability to design, debug and release without forgoing security and performance. Specialized in Cost and resource Optimization using Managed services, Infrastructure Restructuring and serverless technologies. Led different  Migration from Data Centers to Cloud and Intercloud movement of Data. Multi-Cloud architecture and inter Cloud connectivity. 
 
 
 
